@@ -3,8 +3,8 @@
 <p>Proyecto para ADA ITW, en donde utilizamos HTML, Java Script</p>
 
 
+<div class="tenor-gif-embed" data-postid="23713303" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/jim-carrey-jim-carrey-fun-funny-jim-carrey-mask-jim-carrey-cash-gif-23713303">Jim Carrey Jim Carrey Fun GIF</a>from <a href="https://tenor.com/search/jim+carrey-gifs">Jim Carrey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<img src='https://tenor.com/es/view/thug-life-cash-on-arm-man-holding-cash-stonks-benjamins-gif-11420110190761527935' aling='center' width='300px'>
 
 
 📍 Link al proyecto: 
